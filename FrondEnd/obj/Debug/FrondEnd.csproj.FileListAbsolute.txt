@@ -1,0 +1,30 @@
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\bin\Debug\FrondEnd.exe.config
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\bin\Debug\FrondEnd.exe
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\bin\Debug\FrondEnd.pdb
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\bin\Debug\BackEnd.dll
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\bin\Debug\BackEnd.pdb
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.inicio.resources
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.verlista.resources
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.exe
+C:\Users\USUARIO\Desktop\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\bin\Debug\FrondEnd.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\bin\Debug\FrondEnd.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\bin\Debug\FrondEnd.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\bin\Debug\BackEnd.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\bin\Debug\BackEnd.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.inicio.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.verlista.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.csproj.CopyComplete
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Archivos C#\Suspendidos\Llstadesuspendidosdeltorneo\FrondEnd\obj\Debug\FrondEnd.pdb
